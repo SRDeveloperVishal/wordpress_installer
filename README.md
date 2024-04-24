@@ -1,6 +1,6 @@
 # wordpress_installer
-## Give Execution permission to bash script
+#### Give execution permission to bash script
 sudo chmod +x ./installer_wordpress.sh
-## execute wordpress
+#### Execute wordpress
 ./installer_wordpress.sh
 
